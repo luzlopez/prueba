@@ -5,12 +5,15 @@ nav.navbar{
 	color: white;
 	padding: 15px;
 	background-color: #1960a8;
+	font-color: white;
+
 }
 
 https://getbootstrap.com/docs/3.3/css/#grid-example-basic ----recuerdaaaloo
 
 
 .nav a{
+	margin-top: 5px;
 	text-transform: uppercase;
 	font-color: white;  
 }
